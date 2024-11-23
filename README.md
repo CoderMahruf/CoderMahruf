@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mahruf9060@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
