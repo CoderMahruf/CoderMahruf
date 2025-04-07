@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python Django & Django Rest Framework**
 
-- 💬 Ask me about **Software Developement,Backend Development**
+- 💬 Ask me about **Software Developement,Python Development,Backend Development**
 
 - 📫 How to reach me **mahruf9060@gmail.com**
 
