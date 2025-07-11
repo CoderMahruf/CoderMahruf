@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mahruf60/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahruf60/" height="30" width="40" /></a>
 <a href="https://fb.com/codeforgecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codeforgecode" height="30" width="40" /></a>
-<a href="https://instagram.com/mahruf.60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahruf.60" height="30" width="40" /></a>
+<a href="https://instagram.com/mahruf.shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahruf.60" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mahruf60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mahruf60" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/CoderMahruf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="CoderMahruf" height="30" width="40" /></a>
 </p>
