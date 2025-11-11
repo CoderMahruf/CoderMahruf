@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python Django & Django Rest Framework, AI Integration**
+- 🌱 I’m currently working **Python Django & Django Rest Framework, AI Integration**
 
 - 💬 Ask me about **Software Development, Python Development, Backend Development**
 
