@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently working **Python Django & Django Rest Framework, AI Integration**
+- 🌱 I’m currently working **ASP .Net MVC, ASP .Net Core MVC, AI Enthusiast**
 
-- 💬 Ask me about **Software Development, Python Development, Backend Development**
+- 💬 Ask me about **Software Development, Backend Development**
 
 - 📫 How to reach me **mahruf9060@gmail.com**
 
